@@ -1,0 +1,17 @@
+body{
+    background-color: #edede9; 
+     
+}
+
+section{
+    color: #FFFFFF;
+    padding: 30px;
+    border-radius: 15px;
+} 
+.custom-shadow {
+    box-shadow: 0 6px 13px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
